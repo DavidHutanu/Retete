@@ -80,16 +80,16 @@ section p {
     font-size: 32px;
 }
 
-div {
-    height:600px;
-
+section div {
+    height:1080px;
 }
 
-h1 {
+.text {
     margin-left: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 20px;
     text-align: center;
+    font-size: 16px;
 }
 
 h2 {
@@ -110,11 +110,18 @@ h3 {
 h4 {
     margin-top: 50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     margin-left: 20px;
 }
 
 h5 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 50px;
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+h6 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     margin-top: 50px;
@@ -122,19 +129,18 @@ h5 {
     font-size: 32px;
 }
 
- footer p {
-        font-size: 16px;
-        color: white;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        text-align: center;
-        padding-top: 50px;
+footer p {
+    font-size: 16px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 50px;
 }
 
 
 
 footer {
-    background-color: black;
-    height: 100px;
-    width: 100%;
+background-color: black;
+height: 100px;
+width: 100%;
 }
-

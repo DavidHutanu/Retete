@@ -46,7 +46,7 @@ table {
 /* INCEPUT CODING*/
 
 header {
-    background-color: #ffac00;
+    background-color: #45b8ff;
     height: 160px;
     width: 100%;
 }
@@ -89,7 +89,6 @@ section div nav ul li a img{
 
 
 .paste {
-	 margin-left: 250px;
 	padding-bottom: 30px;
 }
 
